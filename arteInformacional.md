@@ -1,4 +1,5 @@
-== A arte como método de aquisição de informação da LOD ==
+A arte como método de aquisição de informação da LOD
+====================================================
 
 Que legal essa música e esse padrão de exibição das infomações.
 Talvez, se eu deixar a batida de fundo um pouco mais interessante,
