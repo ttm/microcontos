@@ -1,0 +1,69 @@
+== Resumo das ontologias participativas brasileiras ==
+
+OPS: Ontologia de Participação Social
+Resumo:
+baseada no antigo Vocabulário Comum de Participação Social (VCPS), é a ontologia brasileira de participação social mais geral, recebendo contribuições de diversos atores (corais), artigo efetivando a ontologia como OPS (fabbri) e produto pnud para sua ampliação (f. cruz).
+
+Recursos:
+artigo fabbri
+corais vcps
+produto f cruz
+Derreferencialmento
+
+OPa: Ontologia do Participa.br
+Resumo:
+Ontologia levantada para suprir especificações para o Participa.br. Há duas grandes partes: uma feita com os conceitos e intuitos dos integrantes da equipe inicial do Participa.br, condensado no escrito de fabbri; já a segunda parte por feita com base nos dados do Participa.br, como explicitado em fabbri5.
+
+Recursos:
+Produto1 fabbri
+Produto2 fabbri
+Triplificação do participa.br (abaixo)
+Derreferencialmento
+
+OCD: Ontologia do Cidade Democrática
+Resumo:
+Ontologia feita com base nos dados do Cidade Democrática, um portal participativo mantido por esforços civis. Esta ontologia talvez seja a mais avançada dentre as levantadas, ao menos com relação ao número de restrições de classe e axiomas de propriedade.
+
+Recursos:
+rotina para levantamento da ontologia com base nos dados
+Produto PNUD/ONU que especifica e contextualiza ontologia
+Triplificação dos dados do Cidade Democrática (abaixo)
+Derreferencialmento
+
+Ontologiaa: Ontologia do AA
+Resumo:
+Ontologia do AA, feita também para testes, pois o AA é um sistema super simples. A ontologia é marcada por um relacionamento sistemático com classes e propriedades mais gerais (rdfs subClassOf e subPropertyOf).
+
+Recursos:
+rotína para levantamento da ontologia
+Produto PNUD/ONU que especifica e contextualiza ontologia
+Triplificação dos dados, em mysql e em mongodb, do AA (abaixo)
+Derreferencialmento
+
+OBS: Ontologia da Biblioteca (digital e semântica de participação) Social
+Resumo:
+Ontologia relacionada aos mecanismos e instâncias de participação social (conjunto mínimo: conferências, conselhos, comissões, ouvidorias, consultas e audiências públicas, mesas de diálogo, fórum interconselhos), contemplando entrevistas com especialistas, documentações repassadas pela SNAS/SGPR, documentações do IPEA e o Decreto 8.243, que institui os Plano e Sistema Nacionais de Participação Social (PNPS, SNPS).
+
+Recursos:
+Rotinas de levantamento das ontologias
+Produto que relaciona ontologia com vocabulários e contextualiza
+Derreferenciamento
+Biblioteca Digital de Participação Social
+
+VBS: Vocabulário da Biblioteca (digital e semântica de participação) Social
+Resumo:
+Vocabulário que acompanha OBS, representando suas classes, propriedades e conceitualizações principais na forma de um vocabulário SKOS.
+
+Recursos:
+Rotinas para levantamento do vocabulário
+Produlo relacionado VBS com OBS e outras ontologias
+Derreferenciamento
+Biblioteca Digital de Participação Social
+
+=== Triplificações: ===
+
+AA
+
+Participa.br
+
+Cidade Democrática
