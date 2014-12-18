@@ -62,8 +62,34 @@ Biblioteca Digital de Participação Social
 
 === Triplificações: ===
 
-AA
+AA: Autorregulação Algorítmica
+Resumo:
+Mecanismo de registro de dedicações e compartilhamento de processos, o AA é potencializado com a integração de seus dados à nuvem participativa brasileira e global.
+
+Recursos:
+Rotina de triplificação
+Triplestore
+Acessos à triplestore
+
 
 Participa.br
+Resumo:
+O Portal Federal de Participação Social (Participa.br) é dedicado a aproximar gestores públicos e sociedade civil, em comunidades e processos participativos tipicamente pensados como ``trilhas participaticas'', com ``etapas participativas''.
+
+Recursos:
+Rotina de triplificação
+Triplestore
+Acessos à triplestore
+
 
 Cidade Democrática
+Resumo:
+Portal participativo mantido por esforços civis, contextualizado e potencializado com a integração de seus dados à nuvem participativa brasileira e glocal.
+
+
+Recursos:
+Rotina de triplificação
+Triplestore
+Acessos à triplestore
+
+
