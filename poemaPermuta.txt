@@ -1,0 +1,15 @@
+.
+poema permuta parada
+permuta poema parada
+permuta parada poema
+parada permuta poema
+parada poema permuta
+poema parada permuta
+
+Poema permuta
+Permuta poema
+Permuta parada
+Parada permuta
+Parada poema
+Poema parada
+-- Autoria Anônima e Coletiva, dez de 2014
