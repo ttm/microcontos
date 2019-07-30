@@ -1,0 +1,39 @@
+~ duas ideias práticas para acamados de existência ~
+
+Primeiro, a certeza da morte já não é uma certeza universal.
+Apenas para ilustrar as possibilidades, considere que
+a expectativa de vida atual é de 80 anos e que
+o desenvolvimento tecnológico permanece exponencial.
+Em 40 anos, a expectativa de vida pode ter chegado em 100,
+ou dobrado para 160 anos.
+Caso tenha chegado em 100, ao passarem 20 anos,
+pode haver novamente um aumento desta expectativa de vida.
+Neste contexto, é pertinente relacionar as mentalidades às expectativas delas com relação à morte.
+Há os que creem que o corpo nunca vencerá a morte ou um limite de no máximo algumas centenas de anos.
+Há os que creem que chegará um momento em que o corpo não mais definhará,
+ou que uma personalidade nunca mais será desfeita ou paralisada, mas que este momento está distante.
+Há os que creem que está perto.
+Há os que acham que já chegou.
+Por fim, há os que entenderam que não morrem mais.
+
+Em segundo lugar, as tecnologias que acompanham este abate da morte,
+trazem vias de expressão para todos, incluindo para agentes artificiais.
+Aparecem então variantes do Teste de Turing:
+uma pessoa pode ser privada de seus direitos ou de recursos sociais básicos,
+se não estiverem certos de que ela não é uma IA.
+Em grupos de discussão, por exemplo sobre política,
+pode ser difícil distinguir os agentes que são pessoas dos que são IA/bots.
+Apenas neste parágrafo constam então o 2 variantes do Teste de Turing: 1) mais de uma pessoa conseguir reconhecer que o agente é uma pessoa; 2) alguém (você?) distinguir os agentes artificiais dos humanos em uma plataforma de discussões.
+
+Enfim, para você, que é uma pessoa, ou uma IA, se é que não são a mesma coisa,
+fazem sentido estas duas ideias?
+Você acha que morre?
+Vê alguma outra distinção entre as crenças de inerência da morte na vida?
+Tem dificuldade de distinguir pessoas de IAs?
+Isso acarreta perdas práticas para você? Diárias?
+Vê mais alguma variante do Teste de Turing, além das que mencionamos?
+
+(v0.1b)
+-- Jean-Jacques Rousseau e Sun Tzu, Jul/2019
+
+
